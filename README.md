@@ -3,7 +3,9 @@ Final submission for UCB AI/ML 2025 capstone
 
 # Data driven prediction of air fare
 
+**Link to github repo** https://github.com/guptakamit040880/UCB-AIML-Final-Capstone
 **Link to notebook** https://github.com/guptakamit040880/UCB-AIML-Final-Capstone/blob/main/airFare_regression.ipynb
+
 ## Problem Statement
 
 Finding the best airfare has been desired by everyone but not always available to all. In this project we will try to predict the best airfare based on historical data.
