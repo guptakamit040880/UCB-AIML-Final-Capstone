@@ -35,32 +35,33 @@ Elastic Net Regression: RMSE = 46.6472, R2 = 0.5946
 
 ## Linear Regression Coefficients:
 
-
-MktCoupons                 13.147811\
-OriginCityMarketID          0.904572\
-DestCityMarketID           -0.073402\
-OriginAirportID            -1.127701\
-DestAirportID              -0.878606\
-Carrier                     2.526193\
-NonStopMiles               39.983779\
-RoundTrip                   0.703659\
-ODPairID                   -1.434764\
-Pax                       -16.709535\
-CarrierPax                  5.971353\
-Market_share                7.394271\
-Market_HHI                  4.665953\
-LCC_Comp                  -11.131410\
-Multi_Airport               2.914628\
-Circuity                    2.088194\
-Slot                        2.759327\
-Non_Stop                    8.975253\
-MktMilesFlown               9.893920\
-OriginCityMarketID_freq    -4.174969\
-DestCityMarketID_freq      -4.846638\
-OriginAirportID_freq        5.003250\
-DestAirportID_freq          5.274419\
-Carrier_freq               -7.378940\
-ODPairID_freq              11.502694\
+```markdown
+MktCoupons                 13.147811
+OriginCityMarketID          0.904572
+DestCityMarketID           -0.073402
+OriginAirportID            -1.127701
+DestAirportID              -0.878606
+Carrier                     2.526193
+NonStopMiles               39.983779
+RoundTrip                   0.703659
+ODPairID                   -1.434764
+Pax                       -16.709535
+CarrierPax                  5.971353
+Market_share                7.394271
+Market_HHI                  4.665953
+LCC_Comp                  -11.131410
+Multi_Airport               2.914628
+Circuity                    2.088194
+Slot                        2.759327
+Non_Stop                    8.975253
+MktMilesFlown               9.893920
+OriginCityMarketID_freq    -4.174969
+DestCityMarketID_freq      -4.846638
+OriginAirportID_freq        5.003250
+DestAirportID_freq          5.274419
+Carrier_freq               -7.378940
+ODPairID_freq              11.502694
+```
 
 ## Correlation heatmap:
 
